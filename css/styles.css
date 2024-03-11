@@ -139,7 +139,7 @@ p{
     position: relative;
     float: right;
     padding: 9px 5px;
-    margin-top: -55px;
+    margin-top: -60px;
     margin-right: 15px;
     margin-bottom: 8px;
     background-color: transparent;
@@ -148,7 +148,7 @@ p{
     border-radius: 4px;
   }
 
-@media  (max-width:786px) {
+@media  (max-width:765px) {
     .middle{
         float: none;
         display: block;
